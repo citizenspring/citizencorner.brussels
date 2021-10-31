@@ -16,34 +16,90 @@ module.exports = {
         has: [
           {
             type: "host",
-            value: "drive.cryptoart.brussels",
+            value: "drive.citizencorner.brussels",
           },
         ],
         permanent: false,
         destination:
-          "https://drive.google.com/drive/u/0/folders/1Cb7QcW9DBMGFEWm4RI7fm4yP0H9BBU95",
+          "https://drive.google.com/drive/folders/10F8oO59nZo_Yja8Fz8utGDinCuB8VQe8?usp=sharing",
       },
       {
         source: "/(.*)",
         has: [
           {
             type: "host",
-            value: "discord.cryptoart.brussels",
+            value: "calendar.citizencorner.brussels",
           },
         ],
         permanent: false,
-        destination: "https://discord.gg/aj6z88CRaK",
+        destination:
+          "https://calendar.google.com/calendar/embed?src=apc0sg19i1ic703d5g1d53tpss%40group.calendar.google.com&ctz=Europe%2FBrussels",
       },
       {
         source: "/(.*)",
         has: [
           {
             type: "host",
-            value: "telegram.cryptoart.brussels",
+            value: "facebook.citizencorner.brussels",
           },
         ],
         permanent: false,
-        destination: "https://t.me/joinchat/y2Ybneonmn4zZmVh",
+        destination: "https://facebook.com/citizencornerbxl",
+      },
+      {
+        source: "/(.*)",
+        has: [
+          {
+            type: "host",
+            value: "group.citizencorner.brussels",
+          },
+        ],
+        permanent: false,
+        destination: "https://facebook.com/groups/citizencorner",
+      },
+      {
+        source: "/(.*)",
+        has: [
+          {
+            type: "host",
+            value: "map.citizencorner.brussels",
+          },
+        ],
+        permanent: false,
+        destination: "https://goo.gl/maps/jXiHm57z77CLxURh8",
+      },
+      {
+        source: "/(.*)",
+        has: [
+          {
+            type: "host",
+            value: "donate.citizencorner.brussels",
+          },
+        ],
+        permanent: false,
+        destination: "https://opencollective.com/citizencorner/donate",
+      },
+      {
+        source: "/(.*)",
+        has: [
+          {
+            type: "host",
+            value: "budget.citizencorner.brussels",
+          },
+        ],
+        permanent: false,
+        destination: "https://opencollective.com/citizencorner",
+      },
+      {
+        source: "/(.*)",
+        has: [
+          {
+            type: "host",
+            value: "discord.citizencorner.brussels",
+          },
+        ],
+        permanent: false,
+        destination: "https://discord.gg/xyxQhRft8x",
       },
     ];
   },

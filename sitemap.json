@@ -1,37 +1,32 @@
 {
   "index": {
-    "title": "CryptoArt Brussels",
+    "title": "Citizen Corner Brussels",
     "description":
-      "A place in the capital of Europe to bring local artist to the crypto world",
-    "image": "https://cryptoart.brussels/cryptoartbrussels-logo.jpg",
-    "googleDocId": "1H6bAErQEJfu2y1rzgVhFtwyPAd1IeofX98uCRVJzdKY"
+      "A temporary occupation for citizens in Bienfaiteurs, Brussels",
+    "image": "https://citizencorner.brussels/citizencorner-building-800.jpg",
+    "googleDocId": "1Fx9CUZHLzAH-P54VlGf_zexKc05dEoBSn-WgPDntBLY"
+  },
+  "photos": {
+    "googleDocId": "11dJXCu2LY2Mb8GGPRhF-DxxbW8z4gYOUYKmtvGzThAw"
   },
   "events": {
-    "title": "CryptoArt Brussels - Events",
-    "description":
-      "Join us to learn about crypto(art) and meet like minded people.",
-    "googleDocId": "1H0n2eCaOIzR_cSVmbqUv03uewb5z0AYZB1dGF7b5G7o"
+    "googleDocId": "1HsQ5uSdds1QPZL6eg6Fhdk87AgabPzGqszJ_Q3En2Xo"
   },
-  "about": { "googleDocId": "157PTpLzlBRSafb910POsk1b6CFNEBDqPCl8kzuKvycM" },
-  "resources": {
-    "title": "CryptoArt Brussels - resources",
-    "description":
-      "Reading list, podcasts and other resources to learn about crypto(art)",
-    "googleDocId": "1IWkopTJeulOHu1FEaj8xtbHoZrR1zZmbZQZAQOSwOlQ"
+  "organize": {
+    "googleDocId": "1_wnjRjuXjw4prNZzIaZt5TqOPsAe55H6IsWKHrcczvU"
   },
-  "collection": {
-    "description": "NFT minted by the CryptoArt Brussels community",
-    "googleDocId": "1bO1TO5MbWMNfYJqe0jP2ywetRPij8MTAFfTJevqG_Co"
+  "organise": {
+    "googleDocId": "1_wnjRjuXjw4prNZzIaZt5TqOPsAe55H6IsWKHrcczvU"
   },
-  "place": {
-    "googleDocId": "1beOU1y0vktJzr5aQ8_JlPqqdIiuPZ0he9Giyy5g6FtE",
-    "title": "CryptoArt Corner - Brussels",
-    "description": "A place to meet, share and learn for the CryptoArt Brussels community",
-    "image": "https://cryptoart.brussels/cryptoartcornerbrussels.jpg"
+  "about": {
+    "googleDocId": "1cu6Rq-Qfk06Tl8jRpWtAxzLUZzqqPaJu51GX0P1MFSQ"
   },
-  "community": {
-    "googleDocId": "13gs-zJBZ0pSlwJ8LD6sP1AF6O08Za3M4a907JK9cXR4",
-    "title": "CryptoArt Brussels - Meet the community",
-    "description": "Meet the people that give life to the CryptoArt Brussels community."
+  "pricing": {
+    "googleDocId": "1_wnjRjuXjw4prNZzIaZt5TqOPsAe55H6IsWKHrcczvU"
+  },
+  "contribute": {
+    "title": "Citizen Corner - Contribute",
+    "description": "Looking for ways to contribute? Check out this list of things we need to do, find, buy, etc.",
+    "googleDocId": "1LIIf0EOpfvaEpdxVhdrmU07exELiMK3bQ8uLOLaXUlI"
   }
 }
