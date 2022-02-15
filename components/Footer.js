@@ -1,8 +1,8 @@
 const Footer = ({ googleDocId }) => (
-  <div className="footer text-sm mt-8 border-t border-gray-300 flex flex-row justify-between items-center w-screen max-w-screen-md mx-auto p-3">
+  <div className="footer text-sm mt-8 flex flex-row justify-between items-center w-screen max-w-screen-md mx-auto p-3">
     <div>
       <a
-        href="https://citizenspring.earth"
+        href="https://citizencorner.brussels"
         target="_blank"
         rel="noopener noreferrer"
       >
