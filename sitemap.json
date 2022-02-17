@@ -12,11 +12,9 @@
   "events": {
     "googleDocId": "1HsQ5uSdds1QPZL6eg6Fhdk87AgabPzGqszJ_Q3En2Xo"
   },
-  "organize": {
-    "googleDocId": "1_wnjRjuXjw4prNZzIaZt5TqOPsAe55H6IsWKHrcczvU"
-  },
   "organise": {
-    "googleDocId": "1_wnjRjuXjw4prNZzIaZt5TqOPsAe55H6IsWKHrcczvU"
+    "googleDocId": "1_wnjRjuXjw4prNZzIaZt5TqOPsAe55H6IsWKHrcczvU",
+    "aliases": ["organize", "pricing"]
   },
   "about": {
     "googleDocId": "1cu6Rq-Qfk06Tl8jRpWtAxzLUZzqqPaJu51GX0P1MFSQ"
@@ -26,9 +24,6 @@
     "description": "Kids friendlly afternoon, adult friendly evening. Please RSVP. At the Citizen Corner, Schaerbeek.",
     "googleDocId": "1JDZ-8O9hzsyRiXYoImBuim0QbP11ZQAQhHlmioFix_0",
     "image": "https://citizencorner.brussels/_next/image?url=https%3A%2F%2Flh6.googleusercontent.com%2FGGcOUBIT9G5SimknZhlBLXRDU-jZmSPEW9LEy_uAVPw5DoDuBc1XPuzs6OIeZAQepE3MKQUW86kSVzG_JXRU5JJxPdfx5TOthcx5nMcMXCKemMpmYrdpn4db_GfHQa0MwA&w=750&q=75"
-  },
-  "pricing": {
-    "googleDocId": "1_wnjRjuXjw4prNZzIaZt5TqOPsAe55H6IsWKHrcczvU"
   },
   "contribute": {
     "title": "Citizen Corner - Contribute",
