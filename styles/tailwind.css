@@ -95,7 +95,7 @@ ol {
 }
 
 .imageWrapper {
-  @apply my-2 -mx-4 !important;
+  @apply my-2 -mx-4;
 }
 
 .video {
